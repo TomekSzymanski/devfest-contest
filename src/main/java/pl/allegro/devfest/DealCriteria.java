@@ -1,5 +1,4 @@
-package pl.allegro.devfest;
-
+package main.java.pl.allegro.devfest;
 import java.math.BigDecimal;
 import java.util.Collections;
 import java.util.Set;
